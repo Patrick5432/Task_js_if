@@ -1,3 +1,5 @@
+"use strict"
+
 let array = prompt('Введите число')
 
 if (array > 0) {
